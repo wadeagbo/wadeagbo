@@ -1,4 +1,4 @@
-<h1 align="center">Waheed Adeagbo</h1>
+<h1 align="center">Waheed Adeniyi Adeagbo</h1>
 
 <p align="center">
   <b>Physicist turned data scientist</b> · Python · machine learning · local LLMs (RAG)<br>
