@@ -60,7 +60,7 @@ and are measured before anyone relies on them.
 
 ### Background in brief
 
-- **Dr. rer. nat.** in physics, Universität Duisburg-Essen (magna cum laude)
-- **Postdoc** in computational physics at Martin-Luther-Universität Halle-Wittenberg, 45+ peer-reviewed papers
-- **Training** in data science (SPICED Academy) and Python backend development (Digital Career Institute)
-- **Teaching** at university, Gymnasium and a bilingual school
+- **Dr. rer. nat. in physics**, Universität Duisburg-Essen, 2004 (magna cum laude)
+- **About 15 years of research** in computational materials physics at Duisburg-Essen, Bochum and Halle-Wittenberg, with 45+ peer-reviewed papers
+- **Data and software training**: data science (SPICED Academy, 2021), Python backend development (Digital Career Institute, 2022–2023), data analyst internship (Uptrail, 2026)
+- **Teaching** at university, secondary school and a bilingual school
