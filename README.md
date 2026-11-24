@@ -15,8 +15,9 @@
 
 ### About me
 
-I spent about fifteen years simulating materials at German universities (Duisburg-Essen, Bochum, Halle):
-large numerical models, lots of data, and the constant question of whether a result can be trusted.
+I spent nearly twenty years (2001–2020) doing research in computational physics at German universities
+(Duisburg-Essen, Bochum, Halle): simulating materials with large numerical models, lots of data, and the
+constant question of whether a result can be trusted.
 Since 2021 I have been applying the same habits to data science and software. I have also taught physics
 and maths for many years, so explaining technical results to non-specialists is part of how I work.
 
@@ -61,6 +62,6 @@ and are measured before anyone relies on them.
 ### Background in brief
 
 - **Dr. rer. nat. in physics**, Universität Duisburg-Essen, 2004 (magna cum laude)
-- **About 15 years of research** in computational materials physics at Duisburg-Essen, Bochum and Halle-Wittenberg, with 45+ peer-reviewed papers
+- **Nearly 20 years of research in computational physics** (2001–2020): PhD in Duisburg-Essen, then Bochum and Halle-Wittenberg, 45+ peer-reviewed papers
 - **Data and software training**: data science (SPICED Academy, 2021), Python backend development (Digital Career Institute, 2022–2023), data analyst internship (Uptrail, 2026)
 - **Teaching** at university, secondary school and a bilingual school
