@@ -20,8 +20,10 @@ large numerical models, lots of data, and the constant question of whether a res
 Since 2021 I have been applying the same habits to data science and software. I have also taught physics
 and maths for many years, so explaining technical results to non-specialists is part of how I work.
 
-**Right now** I am building small, honest AI tools: language models that run locally, cite their sources
+**Right now** I am building small, trustworthy AI tools: language models that run locally, cite their sources
 and are measured before anyone relies on them.
+
+**Open to data science and AI roles in Germany.**
 
 ---
 
