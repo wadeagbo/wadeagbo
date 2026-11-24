@@ -33,7 +33,7 @@ and are measured before anyone relies on them.
 |---|---|---|
 | **[verwaltungs-rag](https://github.com/wadeagbo/verwaltungs-rag)** | Answers questions about Baden-Württemberg administrative law, cites the paragraph it used and says so when the documents have no answer. Runs fully offline and comes with its own evaluation. | Python, Ollama, Qdrant, BGE-M3 |
 | **[Machine_Learning_Projects](https://github.com/wadeagbo/Machine_Learning_Projects)** | Three projects: forecasting CO levels from air quality data, classifying wind turbine performance, denoising hyperspectral images. | scikit-learn, XGBoost, PCA |
-| **[SPICE_Academy](https://github.com/wadeagbo/SPICE_Academy)** | Data science bootcamp work, ending in a project that predicts heart disease and diabetes with five classical models and a neural network. | pandas, scikit-learn, Keras |
+| **[SPICE_Academy](https://github.com/wadeagbo/SPICE_Academy)** | Bootcamp projects, rebuilt in 2026: predicting heart disease, diabetes and cardiovascular disease with seven models and a neural network on one fair test set, plus an animated Gapminder chart. | scikit-learn, Keras, pandas |
 | **[DCI_projects_django](https://github.com/wadeagbo/DCI_projects_django)** | Django web apps and REST APIs from my backend developer training: authentication, URL shortener, e-commerce, reminders API. | Django, PostgreSQL, REST |
 | **[c1-grammatik](https://github.com/wadeagbo/c1-grammatik)** | German grammar at C1 level: ten volumes of slides and handouts, a workbook and Anki cards. | LaTeX Beamer |
 
