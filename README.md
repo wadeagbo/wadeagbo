@@ -62,6 +62,6 @@ and are measured before anyone relies on them.
 ### Background in brief
 
 - **Dr. rer. nat. in physics**, Universität Duisburg-Essen, 2004 (magna cum laude)
-- **Nearly 20 years of research in computational physics** (2001–2020): PhD in Duisburg-Essen, then Bochum and Halle-Wittenberg, 45+ peer-reviewed papers
+- **Nearly 20 years of research in computational physics** (2001–2020): PhD in Duisburg-Essen, then Bochum and Halle-Wittenberg; 55+ peer-reviewed journal articles, 2,000+ citations, h-index 23
 - **Data and software training**: data science (SPICED Academy, 2021), Python backend development (Digital Career Institute, 2022–2023), data analyst internship (Uptrail, 2026)
 - **Teaching** at university, secondary school and a bilingual school
